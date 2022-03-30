@@ -112,7 +112,7 @@ projects:
     assignments:
       - title: Thesis
         link: "#hook"
-        tagline: "A full-stack app helping you design your own escape room."
+        tagline: "A full-stack app helping you design your own escape room. (Work In Progress)"
 
 
 # publications:
