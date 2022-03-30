@@ -16,7 +16,7 @@ sidebar:
     phone: +30 6978145408
     citizenship: Greek
     #website: blog.webjeda.com #do not add http://
-    #linkedin: alandoe
+    linkedin: Ilias Kaleridis
     #xing: alandoe
     github: elias2500
     #telegram: # add your nickname without '@' sign
@@ -148,7 +148,23 @@ skills:
         level: 85%
 
       - name: Java
+        level: 60%
+
+      - name: HTML
+        level: 65%
+
+      - name: CSS
+        level: 60%
+
+      - name: Sass
+        level: 40%
+
+      - name: Unreal Engine
+        level: 40%
+
+      - name: Git/Github
         level: 70%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
